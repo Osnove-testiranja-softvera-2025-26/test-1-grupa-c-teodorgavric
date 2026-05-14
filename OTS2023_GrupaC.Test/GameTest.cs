@@ -147,6 +147,7 @@ namespace OTS2026_GrupaC.Test
             Assert.That(game.Player.AmountOfNectar, Is.EqualTo(3));
         }
 
+
         // AmountOfHoneyJars: [0,5], [6,11], [12+]
         // AmountOfNectar: [0,9], [10+]
         // BeeCollected: yes, no
